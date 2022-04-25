@@ -14,6 +14,8 @@ of stuff.
   submitted to the [LANMR 2022 Workshop](http://www.lanmr.unam.mx/).
 - TypeScript and Rust type-level lambda calculus
   [implementations](https://github.com/ggzor/type-level-magic).
+- A [Python port](https://github.com/ggzor/plox) of the interpreter for the lox
+  language seen in the book [Crafting Interpreters](http://craftinginterpreters.com/).
 - [A Pratt-parser implementation](https://github.com/ggzor/pratt-parsing-tests)
   for parser combinators using Haskell.
 - [A 3D image cluster visualizer](https://github.com/ggzor/md-visualizacion-proyecto-final)
