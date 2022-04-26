@@ -25,6 +25,9 @@ of stuff.
 - [A React.js Hanoi's tower interactive visualizer](https://github.com/ggzor/fast-hanoi).
 - [dotfiles](https://github.com/ggzor/dotfiles) for Arch Linux, neovim,
   awesomewm, rofi and a lot of other software I use on a daily basis.
+- I [solved all the problems](https://github.com/ggzor/advent-of-code-2021) of
+  the [Advent of Code 2021](https://adventofcode.com/) using Rust, Python,
+  Haskell and Scala.
 - A [Python port](https://github.com/ggzor/plox) of the interpreter for the lox
   language seen in the book [Crafting Interpreters](http://craftinginterpreters.com/).
 - [A Pratt-parser implementation](https://github.com/ggzor/pratt-parsing-tests)
