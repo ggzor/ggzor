@@ -12,8 +12,9 @@ of stuff.
 - [Paper](https://github.com/ggzor/specifying-verifying-tail-recursion) about
   formal verification of tail-recursive algorithms using dependent type theory
   submitted to the [LANMR 2022 Workshop](http://www.lanmr.unam.mx/).
-- TypeScript and Rust type-level lambda calculus
-  [implementations](https://github.com/ggzor/type-level-magic).
+- [SceneMachine](https://scenemachine.ggzor.repl.co/), a SVG 2D Physics game,
+  [1st place](https://replit.com/talk/announcements/So-who-exactly-won-the-replit-Game-Jam/13982)
+  in the 2019 repl.it Game Jam. [Source code](https://replit.com/@ggzor/scenemachine#index.html)
 - [A support tool](https://github.com/ggzor/turing-machines) for professors
   teaching computability theory with turing machines. It is a graphic
   interpreter for turing machines and a compiler for a
@@ -23,8 +24,10 @@ of stuff.
   using React.js. The dataset was tagged using a
   [custom Python tkinter application](https://github.com/ggzor/tk-tagger).
 - [A React.js Hanoi's tower interactive visualizer](https://github.com/ggzor/fast-hanoi).
-- [dotfiles](https://github.com/ggzor/dotfiles) for Arch Linux, neovim,
+- [dotfiles](https://github.com/ggzor/dotfiles) for Arch Linux, neovim, zsh,
   awesomewm, rofi and a lot of other software I use on a daily basis.
+- TypeScript and Rust type-level lambda calculus
+  [implementations](https://github.com/ggzor/type-level-magic).
 - I [solved all the problems](https://github.com/ggzor/advent-of-code-2021) of
   the [Advent of Code 2021](https://adventofcode.com/) using Rust, Python,
   Haskell and Scala.
