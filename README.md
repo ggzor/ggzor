@@ -5,7 +5,7 @@ Here is where the magic happens. 🪄
 I am a passionate software-developer/computer-scientist who loves to do a bunch
 of stuff.
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ggzor/langs)](https://githubtrends.io)
+<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ggzor/langs)](https://githubtrends.io) -->
 
 ## Relevant stuff
 
